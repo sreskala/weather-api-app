@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/blue-cloudy-daylight-background-weather-design_33099-512.jpg');
+  background-size: cover;
 }
 
 code {

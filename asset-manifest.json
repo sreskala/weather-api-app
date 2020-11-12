@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-api-app/static/css/main.d833fcf0.chunk.css",
+    "main.js": "/weather-api-app/static/js/main.69851b8b.chunk.js",
+    "main.js.map": "/weather-api-app/static/js/main.69851b8b.chunk.js.map",
+    "runtime-main.js": "/weather-api-app/static/js/runtime-main.23225113.js",
+    "runtime-main.js.map": "/weather-api-app/static/js/runtime-main.23225113.js.map",
+    "static/js/2.471382d6.chunk.js": "/weather-api-app/static/js/2.471382d6.chunk.js",
+    "static/js/2.471382d6.chunk.js.map": "/weather-api-app/static/js/2.471382d6.chunk.js.map",
+    "index.html": "/weather-api-app/index.html",
+    "precache-manifest.05f587baa2d802ae784c4ea909a480c1.js": "/weather-api-app/precache-manifest.05f587baa2d802ae784c4ea909a480c1.js",
+    "service-worker.js": "/weather-api-app/service-worker.js",
+    "static/css/main.d833fcf0.chunk.css.map": "/weather-api-app/static/css/main.d833fcf0.chunk.css.map",
+    "static/js/2.471382d6.chunk.js.LICENSE.txt": "/weather-api-app/static/js/2.471382d6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-api-app/static/media/blue-cloudy-daylight-background-weather-design_33099-512.a3f33b07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23225113.js",
+    "static/js/2.471382d6.chunk.js",
+    "static/css/main.d833fcf0.chunk.css",
+    "static/js/main.69851b8b.chunk.js"
+  ]
+}
